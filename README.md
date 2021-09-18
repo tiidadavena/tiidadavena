@@ -7,4 +7,4 @@
 - 💬 Ask me about movies, graphic novels, Star Wars, astronomy and biomedical engineering :D
 - 📫 How to reach me on Twitter: @tiidadavena 
 - 😄 Pronouns: ela/elu (she/they)
-
+- https://tiidadavena.github.io/tiidaportfolio/
