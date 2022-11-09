@@ -2,11 +2,10 @@
 
 
 - 🔭 I’m currently working as junior software developer
-- 🌱 UX enthusiast | Web developer in progress | Astronomy lover
+- 🌱 UX enthusiast | Web developer under construction | Astronomy lover
 - 💬 Ask me about movies, graphic novels, Star Wars, astronomy and biomedical engineering :D
-- 📫 How to reach me on Twitter: @tiidadavena 
 - 😄 Pronouns: ela/elu (she/they)
-- https://tiidadavena.github.io/tiidaportfolio/
+- https://tiidadavena.github.io/
 
 <div align="center">
   <a href="https://github.com/tiidadavena">
@@ -25,8 +24,10 @@
   ##
  
 <div> 
- 
-  <a href = "mailto:juliana.barroslima@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:tiidadavena@proton.me"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julianabarroslima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+   [![@tiidadavena's Holopin board](https://holopin.me/tiidadavena)](https://holopin.io/@tiidadavena)
