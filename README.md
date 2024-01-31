@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as junior software developer
 - 🌱 UX enthusiast | PyLady | Astronomy lover
 - 💬 Ask me about movies, graphic novels, Star Wars, astronomy and biomedical engineering :D
-- https://tiidadavena.github.io/
+- ```npx tiidadavena```
 
 
 <div style="display: inline_block"><br>
